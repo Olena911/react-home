@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className="container">
       Weather app
       <footer>
         This project was coded by{" "}
@@ -14,6 +15,7 @@ function App() {
 open-sourced on GitHub
       </a>
       </footer>
+      </div>
     </div>
   );
 }
