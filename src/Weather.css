@@ -1,6 +1,11 @@
 .Weather{
     border: 1px solid #dadde1;
     border-radius: 15px;
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+   
+    box-align: center;
     padding: 15px 25px 25px 25px;
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
