@@ -21,8 +21,8 @@ export default function Weather(){
         </ul>
         <div className="row">
             <div className="col-6">
-                <img src="https://emojigraph.org/he/sun-behind-cloud/" />
-                6°
+                <img src="https://emojigraph.org/he/sun-behind-cloud/"  alt="Sun and clouds"/>
+                6°C
             </div>
             <div className="col-6">
                 <ul>
