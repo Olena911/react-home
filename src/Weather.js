@@ -38,7 +38,7 @@ setCity(event.target.value);
 
 if(weatherData.ready){
   
-    return (<div className="Weather pt-8">
+    return (<div className="Weather">
         <form onSubmit={handleSubmit}>
             <div className="row">
                 <div className="col-9">
